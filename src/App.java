@@ -1,3 +1,6 @@
+/* ESTE ES PATRON DE CADENA DE RESPONSABILIDAD */
+
+
 public class App {
     public static void main(String[] args) {
         // Crear una cadena de dispensadores
