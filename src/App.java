@@ -1,4 +1,4 @@
-/* ESTE ES PATRON DE CADENA DE RESPONSABILIDAD */
+/* ESTE ES PATRON DE Chain of Responsability o CADENA DE RESPONSABILIDAD */
 
 
 public class App {
