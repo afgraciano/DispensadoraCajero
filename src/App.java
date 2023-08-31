@@ -31,7 +31,7 @@ class Dispensador {
     private int denominacion;
     protected Dispensador siguienteDispensador;//modificar la visibilidad de los campos siguienteDispensador en la clase 
                                      //Dispensador a protected en lugar de private. De esta manera, las subclases 
-                                    //(en este caso, la clase DispenserChain) podrán acceder a estos campos.
+                                    //(en este caso, la clase CadenaDispensadores podrán acceder a estos campos.
 
     public Dispensador(int denominacion) { 
         this.denominacion = denominacion;
